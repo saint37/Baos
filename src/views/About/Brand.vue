@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="banner">
-      <img alt="Vue logo" src="../../assets/banner1.jpg">
+      <img alt="Vue logo" src="../../assets/brand.jpg">
     </div>
     <div class="company_intro">
       <el-row class="intro_wrap">

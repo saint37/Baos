@@ -16,16 +16,17 @@
         </el-submenu>
         <el-menu-item index="/product">BAOS产品</el-menu-item>
         <el-menu-item index="/Technique">核心技术</el-menu-item>
-        <el-submenu index="/news">
+        <el-menu-item index="/address">联系我们</el-menu-item>
+        <!-- <el-submenu index="/news">
             <template slot="title">新闻公告</template>
             <el-menu-item index="/affair">行业新闻</el-menu-item>
             <el-menu-item index="/media">媒体报道</el-menu-item>
-        </el-submenu>
-        <el-submenu index="/contact">
+        </el-submenu> -->
+        <!-- <el-submenu index="/contact">
             <template slot="title">联系我们</template>
             <el-menu-item index="/union">加盟我们</el-menu-item>
             <el-menu-item index="/address">地址/电话</el-menu-item>
-        </el-submenu>
+        </el-submenu> -->
     </el-menu>
 </template>
 

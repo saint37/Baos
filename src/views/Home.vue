@@ -40,7 +40,10 @@
       <img src="../assets/divider.png">
     </div>
     <div class="scene">
-      场景抽吸图
+      <video width="960" height="544" controls>
+        <source src="../assets/BAOS_video.mp4" type="video/mp4">
+        您的浏览器不支持Video标签。
+      </video>
     </div>
   </div>
 </template>
@@ -182,9 +185,9 @@ export default {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  height: 380px;
+  height: 550px;
   margin: 0 50px 50px 50px;
   border: 1px solid #fefefe;
-  background-color: rgba(148, 152, 157, 0.4);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 </style>

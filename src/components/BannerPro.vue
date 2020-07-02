@@ -23,9 +23,9 @@ export default {
       mark: 0,
       imgArray: [
         {img:require("../assets/product.jpg")},
-        {img:require("../assets/products/b1.png")},
-        {img:require("../assets/products/b3.png")},
-        {img:require("../assets/products/b2.png")},
+        {img:require("../assets/products/b1.jpg")},
+        {img:require("../assets/products/b3.jpg")},
+        {img:require("../assets/products/b2.jpg")},
       ]
     }
   },

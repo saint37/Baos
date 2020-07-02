@@ -23,7 +23,7 @@ export default {
       mark: 0,
       imgArray: [
         {img:require("../assets/banner1.jpg")},
-        {img:require("../assets/banner2.png")},
+        {img:require("../assets/banner2.jpg")},
       ]
     }
   },
