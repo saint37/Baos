@@ -40,7 +40,7 @@
       <img src="../assets/divider.png">
     </div>
     <div class="scene">
-      <video width="960" height="544" controls>
+      <video width="960" height="544" controls autoplay>
         <source src="../assets/BAOS_video.mp4" type="video/mp4">
         您的浏览器不支持Video标签。
       </video>

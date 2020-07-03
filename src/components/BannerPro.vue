@@ -75,6 +75,7 @@ export default {
   }
   .slideshow li {
     position: absolute;
+    width: 100%;
   }
   .slideshow img {
     width: 100%;
